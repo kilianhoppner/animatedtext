@@ -53,7 +53,7 @@ function draw() {
   // Increase the current character so that we get a longer and
   // longer substring above. Using fractional numbers allows us to
   // slow down the pace.
-  currentCharacter += 0.05;
+  currentCharacter += 0.06;
 }
 
 /**
